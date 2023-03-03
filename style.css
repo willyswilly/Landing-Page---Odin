@@ -1,0 +1,28 @@
+body {
+  background-color: aquamarine;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 1600px;
+}
+
+a {
+  color: red;
+  padding: 0 20px;
+}
+
+.shit {
+  color: antiquewhite;
+  background-color: #1f2937;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #f9f8fa;
+}
+
